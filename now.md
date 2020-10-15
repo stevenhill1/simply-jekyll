@@ -1,7 +1,8 @@
 ---
 layout: post
 permalink: /now/
-published: true
+title: Now
+content-type: eg
 ---
 
 I am currently living and working at home in North Wiltshire.

@@ -1,6 +1,8 @@
 ---
 layout: post
 permalink: /about/
+title: About
+content-type: eg
 ---
 
 
