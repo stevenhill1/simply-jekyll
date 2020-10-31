@@ -5,11 +5,6 @@ title: About
 content-type: eg
 ---
 
-
-Welcome to stevenhill.org.uk, the website of Steven Hill. This site is built with [Jekyll](https://jekyllrb.com/) and runs on [GitHub Pages](https://pages.github.com/). The site is a fork of [Jekyll-Now](http://www.jekyllnow.com/). More technical details are available [here](/tech/).
-
-# About Steven Hill 
-
 ## Biography
 
 You can see details of my career history and experience on [LinkedIn](http://www.linkedin.com/in/steven-hill-344576).
