@@ -1,12 +1,12 @@
 title: Steven Hill
 name: Thinking through research policy
 user_description: 
-notes_url: "https://focused-swanson-2cbb25.netlify.app/"
+notes_url: "https://stevenhill.org.uk/"
 profile_pic: 
 favicon: 
 copyright_name: Steven Hill
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://focused-swanson-2cbb25.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stevenhill.org.uk/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
