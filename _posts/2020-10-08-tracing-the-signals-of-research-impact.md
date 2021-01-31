@@ -8,6 +8,7 @@ tags:
     - research-on-research
     - bibliometrics
 layout: post
+comments: true
 ---
 
 Research has impact.
