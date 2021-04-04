@@ -7,6 +7,7 @@ categories:
 tags:
     - bibliometrics
     - literature search
+    - tools for research
 ---
 
 Surveying the literature is a task with which all researchers are familiar.
