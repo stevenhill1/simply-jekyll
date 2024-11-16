@@ -6,4 +6,4 @@ layout: post
 permalink: /
 ---
 
-<p align="center"><emphasis>Subscribe below to follow my thinking on research impact, meta research, and whatever else is on my mind. Thanks for visiting, thanks for reading.</emphasis></p>
+*Subscribe below to follow my thinking on research impact, meta research, and whatever else is on my mind. Thanks for visiting, thanks for reading.*
